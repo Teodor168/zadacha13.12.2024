@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1212-3\\Documents\\Teodor10a\\zadacha13.12.2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A6D7C5-E608-4288-A883-6AD5FC27980F}|zadacha13.12.2024\\zadacha13.12.2024.csproj|c:\\users\\1212-3\\documents\\teodor10a\\zadacha13.12.2024\\zadacha13.12.2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A6D7C5-E608-4288-A883-6AD5FC27980F}|zadacha13.12.2024\\zadacha13.12.2024.csproj|solutionrelative:zadacha13.12.2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 240,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1212-3\\Documents\\Teodor10a\\zadacha13.12.2024\\zadacha13.12.2024\\Program.cs",
+              "RelativeDocumentMoniker": "zadacha13.12.2024\\Program.cs",
+              "ToolTip": "C:\\Users\\1212-3\\Documents\\Teodor10a\\zadacha13.12.2024\\zadacha13.12.2024\\Program.cs",
+              "RelativeToolTip": "zadacha13.12.2024\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:14:38.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
